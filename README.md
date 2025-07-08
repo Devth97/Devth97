@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Khalandar thameem</h1>
+<h1 align="center">Hi 👋, I'm Khalandar thameem</h1>
 
 <h3 align="center">A passionate Data Scientist from India</h3>
 
@@ -28,7 +28,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/khalandar thameem" target="https://github.com/Devth97"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalandar thameem" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khalandar-thameem-146689257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalandar thameem" height="30" width="40" /></a>
 
 <a href="https://instagram.com/thameemt4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thameemt4" height="30" width="40" /></a>
 
