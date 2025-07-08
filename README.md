@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Khalandarthameem97@gmail.com**
 
-- 📄 Know about my experiences [Just getting started](Just getting started)
+- 📄 Know about my experiences [Just getting started]
 
 - ⚡ Fun fact **I think iam little funny and more ambitious**
 
