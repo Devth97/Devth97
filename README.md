@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Software development**
 
-- 👨‍💻 All of my projects are available at [https://gregarious-flan-7a5e33.netlify.app] (https://gregarious-flan-7a5e33.netlify.app)
+- 👨‍💻 All of my projects are available at [https://gregarious-flan-7a5e33.netlify.app](https://gregarious-flan-7a5e33.netlify.app)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/importance-patience-life-khalandar-thameem](https://www.linkedin.com/pulse/importance-patience-life-khalandar-thameem)
 
