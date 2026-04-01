@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devth97&label=Profile%20views&color=0e75b6&style=flat" alt="devth97" /> </p>
 
-- 🔭 I’m currently working on **ArFurni**
+- 🔭 I’m currently working on **VRFurni**
 
 - 🌱 I’m currently learning **Computer science engeneering in data**
 
