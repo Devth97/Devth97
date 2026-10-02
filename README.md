@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/profile-banner.svg" width="100%" alt="Khalandar Thameem — Software Developer, AI Agents and Automation" /></p>
+<p align="center"><img src="./assets/profile-banner-brutalist.png" width="100%" alt="Khalandar Thameem — Software Developer, AI Agents and Automation" /></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/khalandar-thameem/"><img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-18253c?style=for-the-badge&amp;labelColor=09121f&amp;color=66efcf" alt="Connect on LinkedIn" /></a>
